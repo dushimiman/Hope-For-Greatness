@@ -1,3 +1,10 @@
+:root {
+  --logo-green: #006d5b;
+  --logo-gold: #c5881f;
+  --logo-text: #333333;
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
