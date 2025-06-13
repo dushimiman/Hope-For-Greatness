@@ -10,7 +10,7 @@ function Footer() {
                         <h3 className="text-white mb-4">Get In Touch</h3>
                         <p className="mb-2"><i className="fa fa-map-marker-alt me-3"></i>Kigali, Rwanda</p>
                         <p className="mb-2"><i className="fa fa-phone-alt me-3"></i>+250 787 897 775</p>
-                        <p className="mb-2"><i className="fa fa-envelope me-3"></i>greatness.10@gmail.com</p>
+                        <p className="mb-2"><i className="fa fa-envelope me-3"></i>hopeforgreatness.10@gmail.com</p>
                         <div className="d-flex pt-2">
                             <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-twitter"></i></a>
                             <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-facebook-f"></i></a>
